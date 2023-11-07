@@ -49,7 +49,7 @@ a[href]:visited {
     font-style: italic;
 }
 
-a[href]:hover{
+a[href]:hover {
     font-style: underline;
 }
 

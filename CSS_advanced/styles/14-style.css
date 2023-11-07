@@ -252,10 +252,9 @@ a:active {
 
 .section-tagline {
     color: var(--color-primary);
-}
-
-.section-tagline {
-    color: var(--color-primary);
+    font-family: var(--font-family-title);
+    text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
 }
 
 .section-header {
@@ -268,10 +267,4 @@ a:active {
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
-}
-
-.section-tagline {
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold);
 }

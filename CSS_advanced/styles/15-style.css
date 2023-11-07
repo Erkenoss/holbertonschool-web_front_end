@@ -254,15 +254,9 @@ a:active {
     color: var(--color-primary);
 }
 
-.section-tagline {
-    color: var(--color-primary);
-}
 
 .section-header {
     text-align: var(--section-header-align);
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold);
 }
 
 .section-title {
@@ -271,4 +265,11 @@ a:active {
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
+}
+
+.section-tagline {
+    color: var(--color-primary);
+    font-family: var(--font-family-title);
+    text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
 }

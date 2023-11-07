@@ -31,10 +31,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card-category {
-    --color-primary: #D73953;
+    color: var(--color-primary);
 }
 
 .section-tagline {
-    --color-primary: #D73953;
+    color: var(--color-primary);
 }
 

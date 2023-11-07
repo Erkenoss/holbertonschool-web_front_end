@@ -51,7 +51,7 @@ a {
 }
 
 .section-header {
-    position: var(--section-header-align);
+    text-align: var(--section-header-align);
 }
 
 .section-tagline {
